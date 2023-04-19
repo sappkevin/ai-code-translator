@@ -32,7 +32,7 @@ Log Message : You exceeded your current quota, please check your plan and billin
 
 Solution: Add a payment method to your https://openai.com account. Then regenerate a new API key from https://platform.openai.com/account/api-keys
 
-## Source Repo + Arthor
+## Credits
 
 If you have any questions, feel free to reach out to the original author [Twitter](https://twitter.com/mckaywrigley).
 
