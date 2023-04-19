@@ -24,6 +24,11 @@ npm i
 npm run dev
 ```
 
+Troubleshooting Steps:
+
+Error 500 with Message : You exceeded your current quota, please check your plan and billing details
+Solution: Add a payment method to openai.com account
+
 ## Source Repo + Arthor
 
 If you have any questions, feel free to reach out to the original author [Twitter](https://twitter.com/mckaywrigley).
