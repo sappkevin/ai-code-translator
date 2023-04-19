@@ -2,7 +2,7 @@
 
 Use AI to translate code from one language to another.
 
-
+![AI Code Translator](./public/screenshot1.png)
 
 ## Running Locally
 
