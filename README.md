@@ -28,9 +28,8 @@ npm run dev
 
 HTTP Response -> Error 500 
 
-Log Message : You exceeded your current quota, please check your plan and billing details
-
-Solution: Add a payment method to openai.com account
+Log Message : You exceeded your current quota, please check your plan and billing details. 
+Solution: Add a payment method to your https://openai.com account. Then regenerate a new API key from https://platform.openai.com/account/api-keys
 
 ## Source Repo + Arthor
 
