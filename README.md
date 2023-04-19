@@ -24,8 +24,9 @@ npm i
 npm run dev
 ```
 
-## Source
+## Source Repo + Arthor
 
 If you have any questions, feel free to reach out to the original author [Twitter](https://twitter.com/mckaywrigley).
 
+Source Repo:
 https://github.com/mckaywrigley/ai-code-translator
